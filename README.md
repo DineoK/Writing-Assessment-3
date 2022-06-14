@@ -1,2 +1,7 @@
-# Writing-Assessment-3
-Part 3 of PROJECT: Writing Assignment 
+# Writing-Assessment-4
+Part 4 of PROJECT: Writing Assignment
+<P>For about 3 years I gained some basic knowledge on designing Web pages through NotePad++ in my High School. At that point, I didn’t understand the concepts, modules, etc, or what exactly I was doing at that point. I lacked understanding and I wasn’t able to enjoy creating basic web pages until a guy named Keenan descended from the heavens and walked me through HTML. Gosh, it saved me big time when it came to my final practical. Not only was I able to write my practical, but I was also able to understand what Html was and I loved every bit of it, till this day I enjoy writing codes and I always get excited to see the result. It feels rewarding once you’ve figured out the code; the same way accountants get excited when their accounts balances.</P>
+
+ <P>Although I don’t have experience when it comes to actual Web Development work. Thus far I've only completed my NQF 4 in HTML which was the infant stages of web development. I learned the basics in school such as how to create headings, add images, hyperlinks, and work with the different kinds of fonts. I know Web Development has so much more aspects to learn from and how to make your web page more attractive to the customer or the service provider which could be very detrimental to the company and increase their demand.</P>
+
+<P>I know that going forward I will be able to create my web pages one day and who knows maybe I could make a living off of it while enjoying doing the work. Who would not want to work in a field that they enjoy doing and earning an honest buck? Aside from coding, I have experience with Microsoft systems. I had a part-time job during my school holidays for a construction company called African Pearl. I was exposed to the work environment and how to work with people to achieve a goal</P>
